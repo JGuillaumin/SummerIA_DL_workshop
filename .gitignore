@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 cifar10/cifar-10-batches-py/*
 mnist/*
@@ -9,6 +10,8 @@ mnist/*
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
+=======
+>>>>>>> b556574432f7f39b253b4117f1186065e44a864c
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -54,7 +57,11 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
+<<<<<<< HEAD
 *,cover
+=======
+*.cover
+>>>>>>> b556574432f7f39b253b4117f1186065e44a864c
 .hypothesis/
 
 # Translations
@@ -100,7 +107,19 @@ ENV/
 
 # Spyder project settings
 .spyderproject
+<<<<<<< HEAD
+=======
+.spyproject
+>>>>>>> b556574432f7f39b253b4117f1186065e44a864c
 
 # Rope project settings
 .ropeproject
 
+<<<<<<< HEAD
+=======
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+>>>>>>> b556574432f7f39b253b4117f1186065e44a864c
